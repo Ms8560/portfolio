@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin:0% ;
+    border: px solid red;
+}
+
+
+.box{
+
+color: black;
+font-size: 40px;
+}
+/* .slider{
+    
+    height:600px;
+    background-image: url(/image/main_img.jpg  );
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} */
+
+.slider{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+
+.footer{
+    height: 200px;
+    background-color: yellow;
+}
